@@ -4,7 +4,7 @@
 
 Node.js é uma plataforma de desenvolvimento que permite executar JavaScript do lado do servidor. Ele não é uma linguagem de programação nem um framework, mas sim um ambiente de execução (runtime) de JavaScript.
 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
 
 ## Características principais:
 
@@ -16,7 +16,7 @@ Node.js é uma plataforma de desenvolvimento que permite executar JavaScript do 
 - Multiplataforma (cross-platform)
 - Open source
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 # 2. História do Node.js
 
@@ -28,7 +28,7 @@ Node.js é uma plataforma de desenvolvimento que permite executar JavaScript do 
 - 2016: Versão 6 introduziu LTS (Long Term Support)
 - 2020: Ryan Dahl cria o Deno, principal concorrente do Node.js
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 ## Adoção por grandes empresas:
 
@@ -38,7 +38,7 @@ Node.js é uma plataforma de desenvolvimento que permite executar JavaScript do 
 
 O Node.js utiliza o motor JavaScript V8 do Chrome, combinado com uma camada chamada libuv (escrita em C++) que possui um event loop para comunicação com o sistema operacional.
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 ## Componentes principais:
 
@@ -53,7 +53,7 @@ O Node.js utiliza o motor JavaScript V8 do Chrome, combinado com uma camada cham
 - Compatibilidade entre versões
 - Suporte a aplicações web de página única (SPA - Single Page Applications)
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 # 5. Considerações Importantes
 
@@ -65,5 +65,5 @@ O Node.js utiliza o motor JavaScript V8 do Chrome, combinado com uma camada cham
 
 Enquanto navegadores possuem rendering engine e JavaScript engine, o Node.js utiliza apenas o JavaScript engine (V8) combinado com o libuv para operações de sistema
 
-![alt text](image.png)
+![alt text](img/image.png)
 
