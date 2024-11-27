@@ -51,6 +51,7 @@ Simplesmente adicionar arquivos `.js` ao projeto **não é suficiente para que e
 
 ### **Estrutura**
 
+```
 {
   "name": "projeto_dio_node",
   "version": "1.0.0",
@@ -63,4 +64,4 @@ Simplesmente adicionar arquivos `.js` ao projeto **não é suficiente para que e
   "author": "",
   "license": "ISC"
 }
-
+```
