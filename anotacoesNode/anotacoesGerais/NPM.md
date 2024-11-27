@@ -1,6 +1,6 @@
 O **NPM** (Node Package Manager) é uma ferramenta essencial no ecossistema **Node.js**. Ele serve como um **gerenciador de pacotes** que facilita a instalação, atualização, e gerenciamento de bibliotecas e módulos JavaScript desenvolvidos por outras pessoas, bem como os que você cria. É uma solução prática para compartilhar e utilizar código de maneira eficiente.
 
-![alt text](image-1.png)
+![alt text](../anotacoesGerais/img/npm1.png)
 
 ### **O que o NPM faz?**
 1. **Gerencia pacotes e bibliotecas**: Permite buscar, instalar e integrar pacotes públicos ou privados na sua aplicação. Os pacotes podem ser ferramentas úteis como frameworks, bibliotecas, ou utilitários de JavaScript.
@@ -16,14 +16,16 @@ Quando o Node.js está instalado no seu sistema, o NPM é incluído automaticame
 
 O **arquivo `package.json`** age como o **"coração" do projeto**, conectando todos os arquivos, gerenciando as dependências, as versões, o ponto de entrada da aplicação, e outras informações, como o nome do projeto.
 
-![alt text](image-3.png)
+![alt text](../anotacoesGerais/img/npm3.png)
 ---
 
 
-![alt text](image-2.png)
 
 ### **Iniciando um projeto com NPM**
 Para configurar um projeto Node.js com o NPM, existem dois comandos principais:
+
+![alt text](../anotacoesGerais/img/npm2.png)
+
 
 1. **`npm init`**  
    Inicia a configuração do arquivo `package.json`, solicitando informações como:
@@ -41,7 +43,6 @@ Para configurar um projeto Node.js com o NPM, existem dois comandos principais:
 ### **Importante sobre projetos Node.js**
 Simplesmente adicionar arquivos `.js` ao projeto **não é suficiente para que ele funcione corretamente** em um ambiente Node.js profissional. O arquivo `package.json` é essencial para:
 
-![alt text](image.png)
 
 - Gerenciar as dependências.
 - Identificar o ponto de entrada da aplicação.
