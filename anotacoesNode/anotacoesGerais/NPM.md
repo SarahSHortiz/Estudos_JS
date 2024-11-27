@@ -38,8 +38,6 @@ Simplesmente adicionar arquivos `.js` ao projeto **não é suficiente para que e
 - Identificar o ponto de entrada da aplicação.
 - Garantir que a estrutura e as versões sejam consistentes ao compartilhar o projeto.
 
-### **Resumo**
-O NPM é uma ferramenta indispensável para quem trabalha com Node.js, possibilitando o uso de milhares de pacotes prontos para facilitar o desenvolvimento. Ele garante que seu projeto seja bem estruturado, automatizado e preparado para escalar.
 
 ### **Estrutura**
 
